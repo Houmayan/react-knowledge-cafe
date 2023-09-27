@@ -1,9 +1,10 @@
 [
     {
       "id": 1,
-      "cover": "https://i.ibb.co/Lz0qS9n/4.jpg",
-      "title": "Lorem Ipsum Dolor Sit Amet",
+      "cover": "https://i.ibb.co/yhzBgn9/1.jpg",
+      "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
       "author_img": "https://i.ibb.co/sjHmZP0/boy1.png",
+      "author":"huma",
       "posted_date": "2023-09-23",
       "reading_time": 10,
       "hashtags": ["technology", "programming", "web"]
@@ -11,8 +12,9 @@
     {
       "id": 2,
       "cover": "https://i.ibb.co/qxZRWwF/2.png",
-      "title": "Aenean Vulputate Elit Non",
+      "title": "Python Crash Course",
       "author_img": "https://i.ibb.co/SQD5yR0/boy2.jpg",
+      "author":"rashid",
       "posted_date": "2023-09-22",
       "reading_time": 8,
       "hashtags": ["science", "research"]
@@ -20,27 +22,30 @@
     {
       "id": 3,
       "cover": "https://i.ibb.co/k82hxDT/3.png",
-      "title": "Praesent Euismod Eros Quis",
+      "title": "JavaScript: The Good Parts",
       "author_img": "https://i.ibb.co/0KVC280/girl1.jpg",
       "posted_date": "2023-09-21",
+      "author":"piya",
       "reading_time": 12,
       "hashtags": ["health", "fitness", "nutrition"]
     },
     {
       "id": 4,
       "cover": "https://i.ibb.co/Lz0qS9n/4.jpg",
-      "title": "Fusce Tincidunt Eros Eget",
+      "title": "Java: The Complete Reference",
       "author_img": "https://i.ibb.co/4fc1mbJ/girl2.jpg",
       "posted_date": "2023-09-20",
+      "author":"chy",
       "reading_time": 9,
       "hashtags": ["travel", "adventure"]
     },
     {
       "id": 5,
       "cover": "https://i.ibb.co/Lz0qS9n/4.jpg",
-      "title": "Sed Fringilla Egestas Sapien",
+      "title": "The Pragmatic Programmer: Your Journey to Mastery",
       "author_img": "https://i.ibb.co/YQGZcY2/profile.png",
       "posted_date": "2023-09-19",
+      "author":"ali",
       "reading_time": 7,
       "hashtags": ["food", "cooking", "recipes"]
     }
